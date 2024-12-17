@@ -1,4 +1,4 @@
-# Hola 👋, soy Jhoan Aronith Muñoz
+# Hola 👋, soy Jhoan Aronith
 
 <p align="center" style="color:#007ACC">🌱 Actualmente estoy aprendiendo <strong>Desarrollo Full-Stack</strong></p>
 
