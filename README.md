@@ -43,11 +43,8 @@
 ## Contacto
 
 <p align="center">
-  <a href="https://linkedin.com/in/jhoanmu" target="_blank">
+  <a href="www.linkedin.com/in/jhoan-aronith-muñoz-manosalva-9882942ba" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jhoanmu" height="30" width="40" style="filter: brightness(0) saturate(100%) invert(30%) sepia(51%) saturate(420%) hue-rotate(180deg) brightness(95%) contrast(90%);"/>
-  </a>
-  <a href="https://stackoverflow.com/users/jhoanmu" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="jhoanmu" height="30" width="40" style="filter: brightness(0) saturate(100%) invert(45%) sepia(33%) saturate(462%) hue-rotate(180deg) brightness(96%) contrast(88%);"/>
   </a>
 </p>
 
