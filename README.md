@@ -1,52 +1,62 @@
-# Hola 👋, soy Jhoan Aronith
-
-<p align="center" style="color:#007ACC">🌱 Actualmente estoy aprendiendo <strong>Desarrollo Full-Stack</strong></p>
-
----
-
-## Sobre mí
-
-- 🎓 Estudiante de **Ingeniería de Software** en la Universidad Tecnológica del Perú
-- ⚡ Me apasiona el desarrollo web y la creación de aplicaciones en **Java**, **HTML**, **CSS**, **JavaScript** y más.
-- 🚀 Mis objetivos incluyen aprender a desarrollar aplicaciones web, de escritorio y más.
+<!-- Encabezado con animación -->
+<h1 align="center">Hola 👋, soy Jhoan Aronith</h1>
+<h3 align="center">💻 Desarrollador Full-Stack en formación | Apasionado por Java y la Web</h3>
 
 ---
 
-## Lenguajes y Herramientas
+<!-- Animación typing -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=3000&color=007ACC&center=true&vCenter=true&width=600&lines=🌱+Aprendiendo+Desarrollo+Full-Stack;☕+Especializado+en+Java+con+Spring+Boot;🚀+Construyendo+aplicaciones+web+y+de+escritorio;📚+Apasionado+por+aprender+nuevas+tecnologías" alt="Typing SVG">
+</p>
+
+---
+
+## 🚀 Sobre mí
+- 🎓 Estudiante de **Ingeniería de Software** en la **Universidad Tecnológica del Perú**  
+- 💻 Especial interés en **Backend con Java y Spring Framework** y desarrollo **Frontend con HTML, CSS, JavaScript y Angular**  
+- 📊 Experiencia en **bases de datos MySQL**  
+- 🎯 Objetivo: Crear aplicaciones **escalables, seguras y fáciles de mantener**  
+
+---
+
+## 🛠 Lenguajes y Herramientas
 
 <p align="center">
-  <a href="https://www.java.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" style="filter: brightness(0) saturate(100%) invert(45%) sepia(53%) saturate(470%) hue-rotate(186deg) brightness(97%) contrast(97%);"/>
-  </a>
-  <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" style="filter: brightness(0) saturate(100%) invert(35%) sepia(54%) saturate(676%) hue-rotate(186deg) brightness(93%) contrast(94%);"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" style="filter: brightness(0) saturate(100%) invert(45%) sepia(54%) saturate(469%) hue-rotate(185deg) brightness(92%) contrast(96%);"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="filter: brightness(0) saturate(100%) invert(50%) sepia(100%) saturate(1000%) hue-rotate(187deg) brightness(100%) contrast(91%);"/>
-  </a>
-  <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="spring" width="40" height="40" style="filter: brightness(0) saturate(100%) invert(50%) sepia(36%) saturate(236%) hue-rotate(179deg) brightness(95%) contrast(90%);"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" style="filter: brightness(0) saturate(100%) invert(50%) sepia(36%) saturate(236%) hue-rotate(190deg) brightness(97%) contrast(93%);"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" style="filter: brightness(0) saturate(100%) invert(43%) sepia(44%) saturate(311%) hue-rotate(184deg) brightness(90%) contrast(89%);"/>
+  <!-- Backend -->
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  
+  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+  
+  <!-- Herramientas -->
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JhoanAronith&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhoanAronith&layout=compact&theme=tokyonight" height="160"/>
+</p>
+
+---
+
+## 🌍 Conéctate conmigo
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/jhoan-aronith-muñoz-manosalva-9882942ba" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-007ACC?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## Contacto
-
-<p align="center">
-  <a href="www.linkedin.com/in/jhoan-aronith-muñoz-manosalva-9882942ba" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jhoanmu" height="30" width="40" style="filter: brightness(0) saturate(100%) invert(30%) sepia(51%) saturate(420%) hue-rotate(180deg) brightness(95%) contrast(90%);"/>
-  </a>
-</p>
-
-<p align="center" style="color:#007ACC">¡Gracias por visitar mi perfil! 🚀</p>
-
+<p align="center">✨ Gracias por visitar mi perfil ✨</p>
