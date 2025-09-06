@@ -1,6 +1,6 @@
 <!-- Encabezado con animación -->
 <h1 align="center">Hola 👋, soy Jhoan Aronith</h1>
-<h3 align="center">💻 Desarrollador Full-Stack en formación | Apasionado por Java y la Web</h3>
+<h3 align="center">💻 Desarrollador Full-Stack en formación | Enfocado en Java y Angular</h3>
 
 ---
 
