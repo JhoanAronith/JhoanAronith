@@ -1,10 +1,10 @@
 <h1 align="center">👋 ¡Hola! Soy Jhoan Aronith</h1>
-<h3 align="center">💻 Desarrollador Backend | Integrando Inteligencia Artificial en Sistemas Inteligentes</h3>
+<h3 align="center">💻 Desarrollador Backend especializado en Java y Spring Boot</h3>
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=3500&color=6DB33F&center=true&vCenter=true&width=650&lines=☕+Backend+Developer+con+Java+y+Spring+Boot;🤖+IA+aplicada+a+asistentes+y+sistemas+inteligentes;🚀+Creando+servicios+robustos+y+escalables;📚+Apasionado+por+la+innovación+y+la+tecnología" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=3500&color=6DB33F&center=true&vCenter=true&width=650&lines=☕+Desarrollador+Backend+con+Java+y+Spring+Boot;🚀+Diseñando+APIs+seguras+y+escalables;🧠+Apasionado+por+la+arquitectura+limpia+y+las+buenas+prácticas;💡+Transformando+ideas+en+sistemas+robustos+y+eficientes" alt="Typing SVG" />
 </p>
 
 ---
@@ -12,46 +12,48 @@
 ## 🧠 Sobre mí
 
 - 🎓 Estudiante de **Ingeniería de Software** en la **Universidad Tecnológica del Perú**.  
-- 💡 Enfocado en el **desarrollo backend profesional con Java y Spring Boot**, aplicando principios sólidos de arquitectura y buenas prácticas.  
-- 🤖 Especializado en **Inteligencia Artificial aplicada a asistentes inteligentes, procesamiento de lenguaje natural y sistemas con capacidades cognitivas**.  
-- 🧩 Interesado en **arquitecturas limpias**, **seguridad de APIs** y **diseño de servicios inteligentes escalables**.  
-- 🎯 Objetivo: crear **sistemas backend potentes** con **integración de IA** para mejorar la interacción y toma de decisiones en entornos digitales.  
+- 💻 Enfocado en el **desarrollo backend profesional** usando **Java y el ecosistema Spring**.  
+- 🧩 Interesado en **arquitecturas limpias**, **buenas prácticas de código** y **automatización del ciclo de vida del software**.  
+- ⚙️ Con experiencia en **diseño de APIs REST seguras, mantenimiento de microservicios y pruebas automatizadas**.  
+- 🎯 Mi objetivo: desarrollar **soluciones backend escalables, seguras y mantenibles**, impulsadas por un diseño sólido y orientado a la calidad.  
 
 ---
 
-## 🧩 Tecnologías para el Backend
+## ☕ Tecnologías Backend
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JPA%20%2F%20Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenAPI%20%2F%20Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Spring%20Data-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
 </p>
 
-> 🧱 Construyendo **servicios backend sólidos y escalables**, optimizados para integrar **componentes de inteligencia artificial** de forma eficiente y modular.
+> 🚀 Desarrollo de **microservicios y APIs RESTful** con **Spring Boot**, integrando **seguridad, persistencia y control de dependencias** bajo los principios **SOLID y Clean Architecture**.
 
 ---
 
-## 🤖 Tecnologías para Inteligencia Artificial Aplicada
+## 🗄️ Bases de Datos y Consultas SQL
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangChain-0A66C2?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Transformers-FF6F00?style=for-the-badge&logo=huggingface&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Dialogflow-FF9800?style=for-the-badge&logo=google&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Rasa-5A17EE?style=for-the-badge&logo=rasa&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=databricks&logoColor=white"/>
 </p>
 
-> 💬 Desarrollo de **asistentes inteligentes, APIs cognitivas y sistemas con comprensión de lenguaje natural**, integrando modelos de lenguaje (LLMs) dentro de infraestructuras backend modernas.
+> 🧱 Diseño y optimización de **modelos relacionales**, uso de **JPA/Hibernate** y **Spring Data** para acceso a datos eficiente, y **migraciones controladas** mediante scripts o herramientas de versionado.
+
+---
+
+## 🧪 Pruebas y Calidad de Código
+
+<p align="center">
+  <img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Mockito-6DB33F?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring%20Test-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+</p>
+
+> 🧪 Implementación de **pruebas unitarias e integración**, aplicando **Mockito** y **Spring Test** para validar la lógica de negocio, controladores y servicios de manera aislada.  
+> Enfoque en **código limpio, mantenible y con cobertura efectiva**.
 
 ---
 
@@ -60,12 +62,24 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Mockito-6DB33F?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-0078D7?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 </p>
+
+> 🧰 Experiencia con **control de versiones, documentación de APIs, pruebas de endpoints y contenedorización** para flujos de trabajo modernos y colaborativos.
+
+---
+
+## 🧩 Buenas Prácticas y Arquitectura
+
+- 🧠 Aplicación de **principios SOLID** y **arquitectura limpia**.  
+- 🔐 Implementación de **seguridad con JWT y OAuth2** mediante Spring Security.  
+- ⚡ Manejo de **excepciones globales** y **logging estructurado**.  
+- 📦 Integración continua con **GitHub Actions** y despliegues containerizados con **Docker**.  
+- 🧾 Documentación y pruebas automáticas con **Swagger**.  
 
 ---
 
@@ -88,5 +102,5 @@
 
 ---
 
-<p align="center">✨ Gracias por visitar mi perfil — <strong>Desarrollo backend con integración de inteligencia artificial aplicada a sistemas inteligentes</strong> ✨</p>
+<p align="center">✨ Gracias por visitar mi perfil ✨</p>
 
