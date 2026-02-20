@@ -66,8 +66,8 @@
 <h2 align="center">📊 Actividad en GitHub</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JhoanAronith&show_icons=true&theme=transparent&title_color=6DB33F&text_color=7e7e7e&icon_color=6DB33F&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhoanAronith&layout=compact&theme=transparent&title_color=6DB33F&text_color=7e7e7e&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=JhoanAronith&show_icons=true&theme=transparent&title_color=6DB33F&text_color=7e7e7e&icon_color=6DB33F&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=JhoanAronith&layout=compact&theme=transparent&title_color=6DB33F&text_color=7e7e7e&hide_border=true" height="150"/>
 </p>
 
 <hr/>
