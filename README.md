@@ -33,7 +33,7 @@
     </td>
   </tr>
   <tr>
-    <td><strong>Datos</strong></td>
+    <td><strong>Base de Dato</strong></td>
     <td>
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
       <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
