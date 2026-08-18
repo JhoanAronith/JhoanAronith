@@ -1,11 +1,11 @@
 <h1 align="center">👨‍💻 Jhoan Aronith</h1>
 
 <h3 align="center">
-  Software Engineer | Backend Java & Spring Boot
+  Software Engineer | Full Stack Developer
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3500&color=6DB33F&center=true&vCenter=true&width=700&lines=Backend+con+Java+y+Spring+Boot;APIs+REST+simples+y+claras;Bases+de+datos+y+SQL;Buenas+pr%C3%A1cticas+de+programaci%C3%B3n" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3500&color=6DB33F&center=true&vCenter=true&width=700&lines=Desarrollo+Full+Stack+Web;Backend+con+Java+y+Laravel;Frontend+con+React+y+Tailwind;APIs+REST+y+Bases+de+Datos" alt="Typing SVG" />
 </p>
 
 <hr/>
@@ -18,34 +18,32 @@
     <th>Tecnologías</th>
   </tr>
   <tr>
-    <td><strong>Backend</strong></td>
+    <td><strong>Lenguajes</strong></td>
     <td>
       <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white"/>
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
     </td>
   </tr>
   <tr>
-    <td><strong>Testing</strong></td>
+    <td><strong>Frameworks</strong></td>
     <td>
-      <img src="https://img.shields.io/badge/JUnit5-25A162?style=flat-square&logo=junit5&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Mockito-78ab30?style=flat-square"/>
-      <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black"/>
+      <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
     </td>
   </tr>
   <tr>
-    <td><strong>Base de Dato</strong></td>
+    <td><strong>Librerías / UI</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+      <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Base de Datos</strong></td>
     <td>
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
       <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Flyway-CC0000?style=flat-square&logo=redgate&logoColor=white"/>
-    </td>
-  </tr>
-  <tr>
-    <td><strong>DevOps / Tools</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Scrum-000000?style=flat-square&logo=scrumalliance&logoColor=white"/>
     </td>
   </tr>
 </table>
